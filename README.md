@@ -46,4 +46,4 @@ The model predicts future sales and visualizes the results using graphs.
 ### 5️⃣ Future Sales Forecast
 ![Future Forecast](Future_Forecast.png)
 ## Author
-Uma Paluri
+Paluri Uma Naga Srinivas
