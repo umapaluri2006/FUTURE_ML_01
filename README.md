@@ -32,13 +32,13 @@ The model predicts future sales and visualizes the results using graphs.
 ## Project Visualizations
 
 ### 1️⃣ Sales Trend (Line Chart)
-![Sales Trend](Sales_Trend_(Line Chart).png)
+![Sales Trend](Sales_Trend.png)
 
 ### 2️⃣ Sales Distribution (Histogram)
-![Sales Distribution](Sales_Distribution_(Histogram).png)
+![Sales Distribution](Sales_Distribution.png)
 
 ### 3️⃣ Sales Comparison (Bar Chart)
-![Sales Comparison](Sales_Comparison_(Bar Chart).png)
+![Sales Comparison](Sales_Comparison.png)
 
 ### 4️⃣ Actual vs Predicted Sales
 ![Actual vs Predicted](Actual_vs_Predicted_Sales.png)
