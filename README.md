@@ -28,5 +28,22 @@ The project includes several data visualizations:
 ## Output
 The model predicts future sales and visualizes the results using graphs.
 
+
+## Project Visualizations
+
+### 1️⃣ Sales Trend (Line Chart)
+![Sales Trend](Sales_Trend_(Line Chart).png)
+
+### 2️⃣ Sales Distribution (Histogram)
+![Sales Distribution](Sales_Distribution_(Histogram).png)
+
+### 3️⃣ Sales Comparison (Bar Chart)
+![Sales Comparison](Sales_Comparison_(Bar Chart).png)
+
+### 4️⃣ Actual vs Predicted Sales
+![Actual vs Predicted](Actual_vs_Predicted_Sales.png)
+
+### 5️⃣ Future Sales Forecast
+![Future Forecast](Future_Forecast.png)
 ## Author
 Uma Paluri
