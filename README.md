@@ -1,49 +1,79 @@
-# FUTURE_ML_01
+#  Sales & Demand Forecasting for Businesses
 
-## Sales & Demand Forecasting
+This project focuses on predicting future sales using historical data with the help of Machine Learning techniques. It helps businesses make better decisions in inventory management, planning, and growth strategies.
 
-This project predicts future sales using historical sales data with the help of Machine Learning.
+---
 
-## Project Overview
-Businesses need accurate sales forecasting to manage inventory, plan production, and improve decision making.  
-This project uses historical sales data to predict future demand.
+##  Project Overview
 
-## Tools & Technologies
-- Python
-- Pandas
-- Matplotlib
-- Scikit-learn
+Accurate sales forecasting is essential for businesses to:
+- Manage inventory efficiently  
+- Plan production  
+- Improve decision-making  
 
-## Machine Learning Model
-Linear Regression is used to predict future sales based on historical trends.
+This project builds a forecasting model using historical sales data and predicts future demand.
 
-## Visualizations
-The project includes several data visualizations:
-- Sales Trend (Line Chart)
-- Sales Distribution (Histogram)
-- Sales Comparison (Bar Chart)
-- Actual vs Predicted Sales
-- Future Sales Forecast
+---
 
-## Output
-The model predicts future sales and visualizes the results using graphs.
+##  Objectives
 
+- Analyze historical sales data  
+- Perform data preprocessing and feature engineering  
+- Build a Machine Learning model for forecasting  
+- Visualize trends and predictions  
+- Generate business insights  
 
-## Project Visualizations
+---
 
-### 1️⃣ Sales Trend (Line Chart)
+##  Tools & Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+##  Features of the Project
+
+- Data cleaning and preprocessing  
+- Time-based feature engineering  
+- Sales forecasting using Linear Regression  
+- Model evaluation using Mean Absolute Error (MAE)  
+- Multiple visualizations for better understanding  
+
+---
+
+##  Visualizations
+
+The project includes the following graphs:
+
+1. **Actual vs Predicted Sales**  
+2. **Sales Trend Over Time**  
+3. **Monthly Sales Analysis**  
+4. **Sales Distribution**  
+5. **Future Sales Forecast**
+
+---
+
+## 📊 Project Visualizations
+
+### 1️⃣ Sales Trend Over Time
 ![Sales Trend](Sales_Trend.png)
 
 ### 2️⃣ Sales Distribution (Histogram)
 ![Sales Distribution](Sales_Distribution.png)
 
-### 3️⃣ Sales Comparison (Bar Chart)
-![Sales Comparison](Sales_Comparison.png)
+### 3️⃣ Monthly Sales Analysis (Bar Chart)
+![Monthly Sales](Sales_Comparison.png)
 
 ### 4️⃣ Actual vs Predicted Sales
 ![Actual vs Predicted](Actual_vs_Predicted_Sales.png)
 
 ### 5️⃣ Future Sales Forecast
 ![Future Forecast](Future_Forecast.png)
+
+
 ## Author
 Paluri Uma Naga Srinivas
